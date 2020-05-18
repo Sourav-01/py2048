@@ -2,7 +2,18 @@
 your goal is to combine values to get the number --n (you enter at the starting of game which should be power of 2)  by merging the board the board in different directions.  And you have to enter the size of board at the starting of game , will store in boardSize varible in game. Everytime you have to make a move to merge two colomns or row in your displayed board. Enter ' d ' to merge right, ' w ' to merge up, 'a'  to merge left, and ' s ' to merge down of board. if you enter some other key then it will show you an error
 
 ## How game looks is given below
+### Merging in working
+
 ![](Downloads/left_down.jpeg)
+
+### Winning
+
+![](Downloads/winning.jpeg)
+
+### Game over
+
+![](Downloads/game_over.jpeg)
+
 ## Rules:
 ### To merge: 
 1. 'd' to merge right.
